@@ -25,8 +25,9 @@ __Algorithm__:
 6. Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
  __Output__:
+![WhatsApp Image 2025-11-26 at 19 35 17_f7c4bbf4](https://github.com/user-attachments/assets/9261312d-8d90-4863-aa05-227bf94101a3)
 
 
  __Result__:
-
+Thus, the message signal , carrier signal and amplitude modulation(AM) signal will be displayed in separate plots.
 
